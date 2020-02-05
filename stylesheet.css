@@ -93,7 +93,7 @@ body {
 }
 
 #education {
-	background-image: url(photo/mypic2.png);
+	background-image: url(photo/myPic2.png);
 	padding: 8px 8px 8px 8px;
 	transition: margin-left .5s;
 	margin-left: auto;
@@ -110,7 +110,7 @@ body {
 }
 
 #skill {
-	background-image: url(photo/mypic2.png);
+	background-image: url(photo/myPic2.png);
 	padding: 8px 8px 8px 8px;
 	margin-left: auto;
 	margin-right: auto;
@@ -126,7 +126,7 @@ body {
 }
 
 #experience {
-	background-image: url(photo/mypic2.png);
+	background-image: url(photo/myPic2.png);
 	padding: 8px 8px 8px 8px;
 	transition: margin-left .5s;
 	margin-left: auto;
@@ -146,7 +146,7 @@ body {
 }
 
 #project {
-	background-image: url(photo/mypic2.png);
+	background-image: url(photo/myPic2.png);
 	padding: 8px 8px 8px 8px;
 	transition: margin-left .5s;
 	margin-left: auto;
@@ -168,7 +168,7 @@ body {
 }
 
 #footer {
-	background-image: url(photo/mypic2.png);
+	background-image: url(photo/myPic2.png);
 	padding: 8px 8px 8px 8px;
 	transition: margin-left .5s;
 	margin-left: auto;
